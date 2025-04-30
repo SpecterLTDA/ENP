@@ -1,0 +1,17 @@
+setup.py
+enp/__init__.py
+enp/core/__init__.py
+enp/core/network.py
+enp/core/neuron.py
+enp/evolution/__init__.py
+enp/evolution/mutator.py
+enp/learning/__init__.py
+enp/learning/trainer.py
+enp/memory/__init__.py
+enp/memory/trace_memory.py
+enp_ai.egg-info/PKG-INFO
+enp_ai.egg-info/SOURCES.txt
+enp_ai.egg-info/dependency_links.txt
+enp_ai.egg-info/requires.txt
+enp_ai.egg-info/top_level.txt
+tests/test_neuron.py

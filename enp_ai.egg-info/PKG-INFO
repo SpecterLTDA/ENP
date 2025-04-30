@@ -1,0 +1,24 @@
+Metadata-Version: 2.4
+Name: enp-ai
+Version: 0.1.0
+Summary: Evolving Neural Protocol – Framework de IA inspirado em redes neurais esparsas e aprendizado evolutivo
+Home-page: https://github.com/SpecterLTDA/ENP
+Author: Specter Software LTDA
+Author-email: contato@spectersoftware.com.br
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Requires-Python: >=3.8
+Requires-Dist: numpy>=1.21.0
+Requires-Dist: matplotlib>=3.4.0
+Requires-Dist: pytest>=6.0.0
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
